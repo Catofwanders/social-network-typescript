@@ -10,9 +10,9 @@ Create Web application with
 - jest
 - react testing library
 
-done - 1 Create template
-2 Create User signIn/signUp
-3 Create Main Layout
-4 Create Users list page
-5 Create User settings page
-6 Create Posts page
+- 1 Create template done
+- 2 Create User signIn/signUp
+- 3 Create Main Layout
+- 4 Create Users list page
+- 5 Create User settings page
+- 6 Create Posts page
