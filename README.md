@@ -8,9 +8,9 @@ Create Web application with
 - saga
 - firebase
 - jest
-- enzyme
+- react testing library
 
-1 Create template
+done - 1 Create template
 2 Create User signIn/signUp
 3 Create Main Layout
 4 Create Users list page
